@@ -1,0 +1,16 @@
+langflow
+langchain
+streamlit
+openai
+numpy
+pandas
+pydantic
+python-dotenv
+requests
+PyYAML
+SQLAlchemy
+fastapi
+uvicorn
+jinja2
+aiofiles
+python-multipart
